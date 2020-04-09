@@ -1,6 +1,5 @@
-# sayang Kamu
-
-Perintah :
+#SCRIFT AR77
+Perintah:
 
 $pkg update && pkg upgrade
 
